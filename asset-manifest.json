@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/monsters-rolodex/static/css/main.3cf69b01.chunk.css",
+    "main.js": "/monsters-rolodex/static/js/main.6b83cdca.chunk.js",
+    "main.js.map": "/monsters-rolodex/static/js/main.6b83cdca.chunk.js.map",
+    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.50348e07.js",
+    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.50348e07.js.map",
+    "static/js/2.a9df2da3.chunk.js": "/monsters-rolodex/static/js/2.a9df2da3.chunk.js",
+    "static/js/2.a9df2da3.chunk.js.map": "/monsters-rolodex/static/js/2.a9df2da3.chunk.js.map",
+    "static/js/3.6c94be99.chunk.js": "/monsters-rolodex/static/js/3.6c94be99.chunk.js",
+    "static/js/3.6c94be99.chunk.js.map": "/monsters-rolodex/static/js/3.6c94be99.chunk.js.map",
+    "index.html": "/monsters-rolodex/index.html",
+    "static/css/main.3cf69b01.chunk.css.map": "/monsters-rolodex/static/css/main.3cf69b01.chunk.css.map",
+    "static/js/2.a9df2da3.chunk.js.LICENSE.txt": "/monsters-rolodex/static/js/2.a9df2da3.chunk.js.LICENSE.txt",
+    "static/media/armored.png": "/monsters-rolodex/static/media/armored.465e5d6e.png",
+    "static/media/attack.7b14cdc3.png": "/monsters-rolodex/static/media/attack.7b14cdc3.png",
+    "static/media/beast.d327c6a3.png": "/monsters-rolodex/static/media/beast.d327c6a3.png",
+    "static/media/cart.png": "/monsters-rolodex/static/media/cart.d640dbb5.png",
+    "static/media/colossal.png": "/monsters-rolodex/static/media/colossal.ae38f0b0.png",
+    "static/media/female.png": "/monsters-rolodex/static/media/female.133c9b46.png",
+    "static/media/founding.png": "/monsters-rolodex/static/media/founding.3a4ba851.png",
+    "static/media/jaw.png": "/monsters-rolodex/static/media/jaw.ea2084d1.png",
+    "static/media/warhammer.png": "/monsters-rolodex/static/media/warhammer.0d48baaf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50348e07.js",
+    "static/js/2.a9df2da3.chunk.js",
+    "static/css/main.3cf69b01.chunk.css",
+    "static/js/main.6b83cdca.chunk.js"
+  ]
+}

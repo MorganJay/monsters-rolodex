@@ -32,7 +32,7 @@ class App extends Component {
         {
           name: 'Female Titan',
           key: 4,
-          image: require('./assets/img/female.png').default,
+          image: require('./assets/img/leviattack.gif').default,
           human: 'Annie Leonhart',
         },
         {
